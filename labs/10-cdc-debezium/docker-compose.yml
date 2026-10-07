@@ -47,7 +47,7 @@ services:
       retries: 20
 
   connect:
-    image: quay.io/debezium/connect:3.6.3.Final
+    image: quay.io/debezium/connect:3.7.0.Final
     container_name: lab10-connect
     depends_on:
       kafka:
