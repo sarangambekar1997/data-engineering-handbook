@@ -463,7 +463,7 @@ A: Decide up front, because these systems are append-first. In Druid, replace th
 
 ## Further Reading
 
-- [ClickHouse: MergeTree table engine](https://clickhouse.com/docs/engines/table-engines/mergetree-family/mergetree)
+- [ClickHouse: MergeTree table engine](https://clickhouse.com/docs/reference/engines/table-engines/mergetree-family/mergetree)
 - [ClickHouse: selecting an insert strategy](https://clickhouse.com/docs/best-practices/selecting-an-insert-strategy)
 - [ClickHouse: incremental materialized views](https://clickhouse.com/docs/materialized-view/incremental-materialized-view)
 - [Apache Druid: architecture](https://druid.apache.org/docs/latest/design/architecture/), [segments](https://druid.apache.org/docs/latest/design/segments/) and [rollup](https://druid.apache.org/docs/latest/ingestion/rollup/)
